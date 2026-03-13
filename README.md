@@ -131,3 +131,4 @@ encrypt(mensaje) ≠ encrypt(mensaje)
 ```
 
 aunque el mensaje sea el mismo.
+![ejemplo](Comprobacion_doble_cifrado.png) 
