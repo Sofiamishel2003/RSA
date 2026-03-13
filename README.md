@@ -3,8 +3,6 @@
 * **RSA-OAEP** para cifrado asimétrico
 * **AES-256-GCM** para cifrado simétrico autenticado
 
-Se demuestra cómo funcionan los sistemas de cifrado híbrido usados en protocolos como **TLS, SSH y certificados X.509**.
-
 ---
 
 # Estructura del proyecto
